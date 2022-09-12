@@ -1,0 +1,10 @@
+[
+    {
+        "modid": "vlmixinbootstrap",
+        "name": "VeryLegacyMixinBootstrap",
+        "description": "Embeds spongepowered mixin",
+        "version": "${version}",
+        "mcversion": "1.6.4",
+        "authorList": ["Tapio"]
+    }
+]
